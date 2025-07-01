@@ -1,4 +1,4 @@
-#Task2 - Movie Rating Prediction
+# Task2 - Movie Rating Prediction
 
 ## Objective
 Building a ML model that can predicts mobie rating based on attributes
