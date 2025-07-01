@@ -2,7 +2,7 @@
 
 ## Objective
 
-Train a logistic Regression model to classify iris flowers into Setosa, Versicolor, and Virginica and virginica species based on their measurement.
+BUild a machine learning model to classify Iris flower into three species - Setosa, Vericolor, and Virginica - using sepal and petal measurements.
 
 ## Techniques Used
 - Data Cleaning
@@ -11,12 +11,16 @@ Train a logistic Regression model to classify iris flowers into Setosa, Versicol
 - Evaluation with Confusion Matrix, Classification Report, and Accuracy Score.
 
 ## Final Results
-- **Accuracy:** 100%
+- **Model Used:** Logistic Regression
+- **Accuracy:** 1.0(100%)
 
 ## Files
 - ' Iris.csv' : Dataset
 - 'iris_logistic_model.pkl' : Saved trained model
 - 'iris_task3.ipynb' : Jupyter Notebook with all code
+
+## Visualization
+The confusion matrix show the model correctly classified all test samples, indicating perfect accuracy on this dataset
 
 ## Conclusion
 The Model demonstrates strong accuracy for classifying Iris Species using simple logistic Regression.
