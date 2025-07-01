@@ -38,7 +38,7 @@ This internship helped me strengthen my skills in:
 ---
 
  **Connect with me!**
-- [LinkedIn](linkedin.com/in/snehapadma1152588)
+- [LinkedIn](https://www.linkedin.com/in/snehapadma1152588)
 - [GitHub](https://github.com/Sneha-Padma)
 
 ---
